@@ -1,0 +1,355 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    font-size: small;
+}
+
+#skype{
+    margin-left: 25px;
+    font-weight: 600;
+}
+
+#skype:hover{
+    text-decoration: underline;
+}
+
+#vert{
+    margin-left: 25px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#meeting {
+    margin-right: 100px;
+    text-decoration: none;
+    color: black;
+}
+
+#host {
+    color: rgb(130, 130, 130);
+}
+
+#host:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+#navbarDropdown {
+    color: rgb(130, 130, 130);
+}
+
+#drop1{
+    background-color: rgb(223, 223, 223);
+    font-weight: 400;
+    font-size: small;
+}
+
+#drop1:hover{
+    background-color: rgb(211, 209, 209);
+    text-decoration: underline;
+
+}
+
+#drop2{
+    background-color: rgb(223, 223, 223);
+    font-weight: 400;
+    font-size: small;
+}
+
+#drop2:hover{
+    background-color: rgb(211, 209, 209);
+    text-decoration: underline;
+}
+
+#drop3{
+    background-color: rgb(223, 223, 223);
+    font-weight: 400;
+    font-size: small;
+}
+
+#drop3:hover{
+    background-color: rgb(211, 209, 209);
+    text-decoration: underline;
+}
+
+#drop4{
+    background-color: rgb(223, 223, 223);
+    font-weight: 400;
+    font-size: small;
+}
+
+#drop4:hover{
+    background-color: rgb(211, 209, 209);
+    text-decoration: underline;
+}
+
+#drop5{
+    background-color: rgb(223, 223, 223);
+    font-weight: 400;
+    font-size: small;
+}
+
+#drop5:hover{
+    background-color: rgb(211, 209, 209);
+    text-decoration: underline;
+    
+}
+
+#drop6{
+    background-color: rgb(223, 223, 223);
+    font-weight: 400;
+    font-size: small;
+}
+
+#drop6:hover{
+    background-color: rgb(211, 209, 209);
+    text-decoration: underline;
+}
+
+#drop7{
+    background-color: rgb(223, 223, 223);
+    font-weight: 400;
+    font-size: small;
+}
+
+#drop7:hover{
+    background-color: rgb(211, 209, 209);
+    text-decoration: underline;
+}
+
+#drop8{
+    background-color: rgb(223, 223, 223);
+    font-weight: 400;
+    font-size: small;
+}
+
+#drop8:hover{
+    background-color: rgb(211, 209, 209);
+    text-decoration: underline;
+}
+
+#drop9{
+    background-color: rgb(223, 223, 223);
+    font-weight: 400;
+    font-size: small;
+}
+
+#drop9:hover{
+    background-color: rgb(211, 209, 209);
+    text-decoration: underline;
+}
+
+#navbarDropdown:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+#navbarDropdown2:focus {
+    background-color: rgb(211, 209, 209);
+    color: black;
+    text-decoration: underline;
+}
+
+#navbarDropdown3:focus {
+    background-color: rgb(211, 209, 209);
+
+}
+
+#navbarDropdown3:focus {
+    background-color: rgb(211, 209, 209);
+    color: black;
+    text-decoration: underline;
+}
+
+#skypeNavLogo{
+    color: rgba(0, 183, 255, 0.66);
+}
+
+#skypeNavLogo:hover{
+    color: white;
+}
+
+#onlineNavLogo{
+    color: rgba(0, 183, 255, 0.66);
+}
+
+#onlineNavLogo:hover{
+    color: white;
+}
+
+#skypeNav:hover {
+    background-color: rgba(0, 183, 255, 0.66);
+    color: white;
+}
+
+#onlineNav:hover {
+    background-color: rgba(0, 183, 255, 0.66);
+    color: white;
+}
+
+#signUp{
+    background-color: rgb(223, 223, 223);
+    text-decoration: none;
+}
+
+#signUp:hover and #signUp:focus{
+    text-decoration: none;
+}
+
+#signUp2{
+    text-decoration: underline;
+}
+
+#containMe{
+    border: rgb(223, 223, 223) solid 1px;
+    border-end-end-radius: 12.5px;
+    border-top-right-radius: 12.5px;
+    border-bottom-left-radius: 12.5px;
+    background-color: rgb(223, 223, 223)
+}
+
+h2{
+    margin-left: 75px;
+    margin-top: 25px;
+    font-weight: 800;
+}
+
+p{
+    margin-left: 75px;
+    margin-top: 40px;
+}
+
+img{
+    width: 588px;
+    height: 308px;
+    margin-left: 50px;
+}
+
+#lead{
+    color: rgb(223, 223, 223);
+    background-color: rgb(223, 223, 223);
+}
+
+button{
+    margin-left: 90px;
+}
+
+#Polish{
+    font-weight: 300;
+}
+
+#donations{
+    text-decoration: underline;
+}
+
+#contact{
+    text-decoration: none;
+}
+
+#contact:hover{
+    color: black;
+}
+
+#Ukraine{
+    font-weight: 700;
+}
+
+#discover{
+    text-align: center;
+    font-weight: 700;
+}
+
+#carouselExampleSlidesOnly{
+    align-self: center;
+    justify-content: center;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+
+#pic1{
+    align-self: center;
+    justify-self: center;
+    margin-left: 430px;
+}
+
+#pic2{
+    align-self: center;
+    justify-self: center;
+    margin-left: 430px;
+}
+
+#pic3{
+    align-self: center;
+    justify-self: center;
+    margin-left: 430px;
+}
+
+#Try{
+    text-align: center;
+    margin-left: 75px;
+    margin-top: 250px;
+    font-weight: 700;
+}
+
+#Try2{
+    font-size: medium;
+    text-align: center;
+    margin-top: 0%;
+}
+
+#chrome{
+    width: 3.4em;
+    height: 3.4em;
+    align-items: center;
+    justify-content: center;
+}
+
+#safari{
+    width: 3.4em;
+    height: 3.4em;
+}
+
+#office{
+    width: 3.4em;
+    height: 3.4em;
+}
+
+#svgLogos{
+    justify-content: center;
+    align-items: center;
+    margin-left: 550px;
+}
+
+#btnChatNow{
+    margin-left: 710px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#socialMedia a{
+    margin-top: 100px;
+    margin-left: 100px;
+    justify-content: space-around;
+    color: black;
+}
+
+#noPhone{
+    margin-left: 1200px;
+}
+
+#emergency{
+    margin-top: 0%;
+    margin-left: 1200px;
+    font-size: small;
+}
+
+#btn1{
+    margin-bottom: 100px;
+}
